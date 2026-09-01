@@ -1,0 +1,11 @@
+node_modules
+.vercel/output
+.vercel/project.json
+screenshots
+artifacts
+attachments
+.grok
+*.log
+.env
+.env.local
+.DS_Store
